@@ -1,0 +1,15 @@
+[project]
+name = "cose461-assignment1"
+version = "0.1.0"
+description = "COSE461 Assignment 1"
+readme = "A1.pdf"
+requires-python = "==3.10"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "ipykernel",
+    "scikit-learn",
+    "gensim",
+    "datasets==2.18.0",
+    "ipykernel"
+]
