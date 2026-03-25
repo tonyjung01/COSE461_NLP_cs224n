@@ -1,0 +1,12 @@
+[project]
+name = "Assignment2"
+version = "0.1.0"
+description = "Dependency parser assignment"
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "tqdm",
+    "docopt",
+    "torch>=2.1.2",
+    "torchvision",
+]
